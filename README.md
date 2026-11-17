@@ -48,5 +48,6 @@ code --add-mcp '{"name":"first-monday","type":"http","url":"https://mcp.firstmon
 - Terms: https://firstmonday.ai/terms-and-conditions
 - Security: https://firstmonday.ai/.well-known/security.txt
 - Contact: contact@firstmonday.ai
+- Weekly lists: https://github.com/firstmonday-ai/100-weekly-remote-jobs-by-country
 
 The files in this repository are under the MIT license. The First Monday service is under its own terms.
