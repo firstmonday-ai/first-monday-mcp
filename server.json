@@ -3,7 +3,7 @@
   "name": "ai.firstmonday/jobs",
   "title": "First Monday",
   "description": "Remote jobs, and for 21 countries whether each can hire someone living there, quoting the post.",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "websiteUrl": "https://firstmonday.ai/mcp",
   "repository": {
     "url": "https://github.com/firstmonday-ai/first-monday-mcp",
