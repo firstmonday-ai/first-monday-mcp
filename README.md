@@ -1,6 +1,6 @@
 # First Monday MCP server
 
-First Monday reads remote, English-language job posts from employers' own job pages and job boards every day. For each of 21 countries, it says whether a job can hire someone living there: open, probably open (with the reason), or not. It quotes the words each verdict stands on.
+First Monday lists remote, English-language jobs and says, for each of 21 countries, whether a job can hire someone living there: open, probably open (with the reason) or not, quoting the words it stands on.
 
 This repository holds the connection config and the MCP Registry entry for First Monday's **hosted** MCP server. The server itself is a hosted service and its source is not public. Use this repository's issues to report problems with the MCP server.
 
